@@ -1,4 +1,4 @@
-Monokai Pro for Jetbrains
+Monokai Pro for JetBrains
 ============================
 
 Beautiful functionality for professional developers
@@ -8,7 +8,7 @@ Beautiful functionality for professional developers
 
 Monokai Pro comes in a **dark theme** and a **light theme**. Regardless of your coding environment, the single goal of Monokai Pro is to let you focus on your code.
 
-### ☞ How to install free evaluation for Jetbrains:
+### ☞ How to install free evaluation for JetBrains:
 
 ```
 1. Extensions ‣ Search for 'Monokai Pro' ‣ Install
