@@ -1,5 +1,11 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.1.0] - 2025-08-13
+
+- [fix] compatibility with JetBrains IDEs v252.*
+- [fix] border colors
+- [fix] JetBrains fallback icons
+
 ## [2.0.2] - 2025-06-04
 
 - [fix] C struct colors
