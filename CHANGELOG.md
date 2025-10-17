@@ -1,5 +1,25 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.1.2] - 2025-10-17
+
+Monokai Pro now offers a **Lifetime license** extension, in addition to the freemium license extension. The Monokai Pro Lifetime extension removes all the register popups for all JetBrains editors.
+
+More info on the [official website](https://monokai.pro).
+
+- [new] jupyter icon
+- [new] gradle icon
+- [fix] update CSS colors
+- [fix] hover / select row colors
+
+## [2.1.1] - 2025-10-05
+
+- [new] agents icon
+- [new] claude icon
+- [new] gleam icon
+- [new] groq icon
+- [new] nim icon
+- [new] nix icon
+
 ## [2.1.0] - 2025-08-13
 
 - [fix] compatibility with JetBrains IDEs v252.*
