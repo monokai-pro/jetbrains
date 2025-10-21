@@ -1,5 +1,11 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.1.3] - 2025-10-21
+
+- [fix] completion popup row select
+- [fix] description text
+- [new] skill icon
+
 ## [2.1.2] - 2025-10-17
 
 Monokai Pro now offers a **Lifetime license** extension, in addition to the freemium license extension. The Monokai Pro Lifetime extension removes all the register popups for all JetBrains editors.
