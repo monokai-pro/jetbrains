@@ -1,5 +1,13 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.1.4] - 2025-11-02
+
+- [new] rust syntax colors
+- [fix] go syntax colors
+- [fix] various other syntax colors
+- [fix] selection background hover colors
+- [new] zig icon
+
 ## [2.1.3] - 2025-10-21
 
 - [fix] completion popup row select
