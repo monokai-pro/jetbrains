@@ -1,18 +1,28 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.2.0] - 2025-12-17
+
+- [new] island theme support
+- [new] background and panel color selection in the Monokai Pro settings menu
+- [new] new terminal color support
+- [new] vite icon
+- [new] odin icon
+- [new] assembly icon
+- [fix] deprecated minimal UI (can be simulated with new background color settings)
+
 ## [2.1.4] - 2025-11-02
 
 - [new] rust syntax colors
+- [new] zig icon
 - [fix] go syntax colors
 - [fix] various other syntax colors
 - [fix] selection background hover colors
-- [new] zig icon
 
 ## [2.1.3] - 2025-10-21
 
+- [new] skill icon
 - [fix] completion popup row select
 - [fix] description text
-- [new] skill icon
 
 ## [2.1.2] - 2025-10-17
 
@@ -42,13 +52,13 @@ More info on the [official website](https://monokai.pro).
 
 ## [2.0.2] - 2025-06-04
 
+- [new] JavaScript / TypeScript unit test icons
+- [new] button in the settings menu to clear all previously defined custom file status colors, so they will be be overridden with matching Monokai Pro colors
 - [fix] C struct colors
 - [fix] scroll bar background color in terminal
 - [fix] radio button select color
 - [fix] validation tooltip background color
 - [fix] removed transparency from VCS colors, because they're reused by DataGrip for added cells and they don't support transparency
-- [new] JavaScript / TypeScript unit test icons
-- [new] button in the settings menu to clear all previously defined custom file status colors, so they will be be overridden with matching Monokai Pro colors
 
 ## [2.0.1] - 2025-01-25
 
