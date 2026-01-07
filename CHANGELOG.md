@@ -1,5 +1,15 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.2.1] - 2026-01-07
+
+- [new] web assembly icon
+- [new] solidity icon
+- [new] gemini icon
+- [fix] app lifecycle: remove deprecated methods
+- [fix] toolbar icon insets and padding
+- [fix] text selection background in text input
+- [fix] selection background for items in file ans structure lists
+
 ## [2.2.0] - 2025-12-17
 
 - [new] island theme support
