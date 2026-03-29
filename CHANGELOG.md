@@ -1,5 +1,9 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.2.2] - 2026-03-29
+
+- [fix] 2026.1 compatibilities
+
 ## [2.2.1] - 2026-01-07
 
 - [new] web assembly icon
