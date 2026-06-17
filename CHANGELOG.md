@@ -1,5 +1,9 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.2.3] - 2026-06-17
+
+- [fix] table cell selected color
+
 ## [2.2.2] - 2026-03-29
 
 - [fix] 2026.1 compatibilities
