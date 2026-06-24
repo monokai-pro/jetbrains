@@ -1,5 +1,9 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.2.4] - 2026-06-24
+
+- [fix] internal method verification fix
+
 ## [2.2.3] - 2026-06-17
 
 - [fix] table cell selected color
