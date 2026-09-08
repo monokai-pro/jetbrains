@@ -1,5 +1,14 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.2.5] - 2026-09-04
+
+- [new] vitest icon
+- [new] oxformat icon
+- [new] oxlint icon
+- [fix] 2026.2 compatibilities
+- [new] badge, ai banner and merge conflict badge colors
+- [fix] combobox popup selection color
+
 ## [2.2.4] - 2026-06-24
 
 - [fix] internal method verification fix
