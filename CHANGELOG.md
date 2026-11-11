@@ -1,5 +1,13 @@
 # Monokai Pro for JetBrains Changelog
 
+## [2.2.6] - 2026-11-11
+
+- [new] mysql icon
+- [new] sparksql icon
+- [new] postgresql icon
+- [new] flinksql icon
+- [new] hive icon
+
 ## [2.2.5] - 2026-09-04
 
 - [new] vitest icon
